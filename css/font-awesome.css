@@ -555,6 +555,7 @@
 .fa-arrows-h:before {
   content: "\f07e";
 }
+.fa-load-balancer:before,
 .fa-bar-chart-o:before {
   content: "\f080";
 }
@@ -826,6 +827,7 @@
 .fa-bolt:before {
   content: "\f0e7";
 }
+.fa-network:before,
 .fa-sitemap:before {
   content: "\f0e8";
 }
@@ -1078,6 +1080,7 @@
 .fa-bullseye:before {
   content: "\f140";
 }
+.fa-ip-address:before,
 .fa-ellipsis-h:before {
   content: "\f141";
 }
@@ -1320,6 +1323,7 @@
 .fa-caret-square-o-left:before {
   content: "\f191";
 }
+.fa-data-center:before,
 .fa-dot-circle-o:before {
   content: "\f192";
 }

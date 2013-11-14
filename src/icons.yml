@@ -516,6 +516,7 @@ icons:
     created:    1.0
     categories:
       - Video Player Icons
+      - Tier 3 Left Nav
 
   - name:       pause
     id:         pause
@@ -523,6 +524,7 @@ icons:
     created:    1.0
     categories:
       - Video Player Icons
+      - Tier 3 Left Nav
 
   - name:       stop
     id:         stop
@@ -530,6 +532,7 @@ icons:
     created:    1.0
     categories:
       - Video Player Icons
+      - Tier 3 Left Nav
 
   - name:       forward
     id:         forward
@@ -768,6 +771,7 @@ icons:
       - warning
     categories:
       - Web Application Icons
+      - Tier 3 Left Nav
 
   - name:       plane
     id:         plane
@@ -838,6 +842,7 @@ icons:
     created:    1.0
     categories:
       - Web Application Icons
+      - Tier 3 Left Nav
 
   - name:       Folder Open
     id:         folder-open
@@ -867,8 +872,11 @@ icons:
     id:         bar-chart-o
     unicode:    f080
     created:    1.0
+    aliases:
+      - load-balancer
     categories:
       - Web Application Icons
+      - Tier 3 Left Nav
 
   - name:       Twitter Square
     id:         twitter-square
@@ -906,6 +914,7 @@ icons:
       - gears
     categories:
       - Web Application Icons
+      - Tier 3 Left Nav
 
   - name:       comments
     id:         comments
@@ -1502,13 +1511,17 @@ icons:
       - flash
     categories:
       - Web Application Icons
+      - Tier 3 Left Nav
 
   - name:       Sitemap
     id:         sitemap
     unicode:    f0e8
     created:    2.0
+    aliases:    
+      - network
     categories:
       - Web Application Icons
+      - Tier 3 Left Nav
 
   - name:       Umbrella
     id:         umbrella
@@ -2103,8 +2116,11 @@ icons:
     id:         ellipsis-h
     unicode:    f141
     created:    3.1
+    aliases:
+      - ip-address
     categories:
       - Web Application Icons
+      - Tier 3 Left Nav
 
   - name:       Ellipsis Vertical
     id:         ellipsis-v
@@ -2676,9 +2692,12 @@ icons:
     id:         dot-circle-o
     unicode:    f192
     created:    4.0
+    aliases:
+      - data-center
     categories:
       - Web Application Icons
       - Form Control Icons
+      - Tier 3 Left Nav
 
   - name:       Wheelchair
     id:         wheelchair
