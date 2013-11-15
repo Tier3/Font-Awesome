@@ -572,6 +572,7 @@
   content: "\f084";
 }
 .fa-gears:before,
+.fa-maintenance:before,
 .fa-cogs:before {
   content: "\f085";
 }
@@ -824,6 +825,7 @@
   content: "\f0e6";
 }
 .fa-flash:before,
+.fa-data-center-down:before,
 .fa-bolt:before {
   content: "\f0e7";
 }
@@ -1339,4 +1341,19 @@
 }
 .fa-plus-square-o:before {
   content: "\f196";
+}
+.fa-object-bucket:before {
+  content: "\f197";
+}
+.fa-queued-for-delete:before {
+  content: "\f198";
+}
+.fa-queued-for-create:before {
+  content: "\f384";
+}
+.fa-queued-for-restore:before {
+  content: "\f386";
+}
+.fa-queued-for-restore:before {
+  content: "\f386";
 }

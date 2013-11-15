@@ -912,6 +912,7 @@ icons:
     created:    1.0
     aliases:
       - gears
+      - maintenance
     categories:
       - Web Application Icons
       - Tier 3 Left Nav
@@ -1509,6 +1510,7 @@ icons:
     created:    2.0
     aliases:
       - flash
+      - data-center-down
     categories:
       - Web Application Icons
       - Tier 3 Left Nav
@@ -2730,3 +2732,39 @@ icons:
     categories:
       - Web Application Icons
       - Form Control Icons
+
+  - name:       Bucket
+    id:         object-bucket
+    unicode:    f197
+    created:    4.0
+    categories:
+      - Tier 3 Left Nav
+
+  - name:       Queued For Delete
+    id:         queued-for-delete
+    unicode:    f198
+    created:    4.0
+    categories:
+      - Tier 3 Left Nav
+
+  - name:       Queued For Create
+    id:         queued-for-create
+    unicode:    f384
+    created:    4.0
+    categories:
+      - Tier 3 Left Nav
+
+  - name:       Queued For Archive
+    id:         queued-for-restore
+    unicode:    f385
+    created:    4.0
+    categories:
+      - Tier 3 Left Nav
+
+  - name:       Queued For Restore
+    id:         queued-for-restore
+    unicode:    f386
+    created:    4.0
+    categories:
+      - Tier 3 Left Nav
+
