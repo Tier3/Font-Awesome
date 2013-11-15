@@ -885,12 +885,12 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Facebook Square
-    id:         facebook-square
-    unicode:    f082
-    created:    1.0
-    categories:
-      - Brand Icons
+  # - name:       Facebook Square
+  #   id:         facebook-square
+  #   unicode:    f082
+  #   created:    1.0
+  #   categories:
+  #     - Brand Icons
 
   - name:       camera-retro
     id:         camera-retro
@@ -959,12 +959,12 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       LinkedIn Square
-    id:         linkedin-square
-    unicode:    f08c
-    created:    1.0
-    categories:
-      - Brand Icons
+  # - name:       LinkedIn Square
+  #   id:         linkedin-square
+  #   unicode:    f08c
+  #   created:    1.0
+  #   categories:
+  #     - Brand Icons
 
   - name:       Thumb Tack
     id:         thumb-tack
@@ -1053,12 +1053,12 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Facebook
-    id:         facebook
-    unicode:    f09a
-    created:    2.0
-    categories:
-      - Brand Icons
+  # - name:       Facebook
+  #   id:         facebook
+  #   unicode:    f09a
+  #   created:    2.0
+  #   categories:
+  #     - Brand Icons
 
   - name:       GitHub
     id:         github
@@ -1117,33 +1117,33 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       Hand Outlined Right
-    id:         hand-o-right
-    unicode:    f0a4
-    created:    2.0
-    categories:
-      - Directional Icons
+#  - name:       Hand Outlined Right
+#    id:         hand-o-right
+#    unicode:    f0a4
+#    created:    2.0
+#    categories:
+#      - Directional Icons
 
-  - name:       Hand Outlined Left
-    id:         hand-o-left
-    unicode:    f0a5
-    created:    2.0
-    categories:
-      - Directional Icons
+#  - name:       Hand Outlined Left
+#    id:         hand-o-left
+#    unicode:    f0a5
+#    created:    2.0
+#    categories:
+#      - Directional Icons
 
-  - name:       Hand Outlined Up
-    id:         hand-o-up
-    unicode:    f0a6
-    created:    2.0
-    categories:
-      - Directional Icons
+#  - name:       Hand Outlined Up
+#    id:         hand-o-up
+#    unicode:    f0a6
+#    created:    2.0
+#    categories:
+#      - Directional Icons
 
-  - name:       Hand Outlined Down
-    id:         hand-o-down
-    unicode:    f0a7
-    created:    2.0
-    categories:
-      - Directional Icons
+#  - name:       Hand Outlined Down
+#    id:         hand-o-down
+#    unicode:    f0a7
+#    created:    2.0
+#    categories:
+#      - Directional Icons
 
   - name:       Arrow Circle Left
     id:         arrow-circle-left
@@ -1335,12 +1335,12 @@ icons:
       - Text Editor Icons
 
 
-  - name:       magic
-    id:         magic
-    unicode:    f0d0
-    created:    2.0
-    categories:
-      - Web Application Icons
+#  - name:       magic
+#    id:         magic
+#    unicode:    f0d0
+#    created:    2.0
+#    categories:
+#      - Web Application Icons
 
   - name:       truck
     id:         truck
@@ -1349,33 +1349,33 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       Pinterest
-    id:         pinterest
-    unicode:    f0d2
-    created:    2.0
-    categories:
-      - Brand Icons
+#  - name:       Pinterest
+#    id:         pinterest
+#    unicode:    f0d2
+#    created:    2.0
+#    categories:
+#      - Brand Icons
 
-  - name:       Pinterest Square
-    id:         pinterest-square
-    unicode:    f0d3
-    created:    2.0
-    categories:
-      - Brand Icons
+#  - name:       Pinterest Square
+#    id:         pinterest-square
+#    unicode:    f0d3
+#    created:    2.0
+#    categories:
+#      - Brand Icons
 
-  - name:       Google Plus Square
-    id:         google-plus-square
-    unicode:    f0d4
-    created:    2.0
-    categories:
-      - Brand Icons
+#  - name:       Google Plus Square
+#    id:         google-plus-square
+#    unicode:    f0d4
+#    created:    2.0
+#    categories:
+#      - Brand Icons
 
-  - name:       Google Plus
-    id:         google-plus
-    unicode:    f0d5
-    created:    2.0
-    categories:
-      - Brand Icons
+#  - name:       Google Plus
+#    id:         google-plus
+#    unicode:    f0d5
+#    created:    2.0
+#    categories:
+#      - Brand Icons
 
   - name:       Money
     id:         money
@@ -1455,12 +1455,12 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       LinkedIn
-    id:         linkedin
-    unicode:    f0e1
-    created:    2.0
-    categories:
-      - Brand Icons
+#  - name:       LinkedIn
+#    id:         linkedin
+#    unicode:    f0e1
+#    created:    2.0
+    # categories:
+    #   - Brand Icons
 
 
   - name:       Undo
@@ -2043,12 +2043,12 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       MaxCDN
-    id:         maxcdn
-    unicode:    f136
-    created:    3.1
-    categories:
-      - Brand Icons
+  # - name:       MaxCDN
+  #   id:         maxcdn
+  #   unicode:    f136
+  #   created:    3.1
+  #   categories:
+  #     - Brand Icons
 
   - name:       Chevron Circle Left
     id:         chevron-circle-left
@@ -2078,19 +2078,19 @@ icons:
     categories:
       - Directional Icons
 
-  - name:       HTML 5 Logo
-    id:         html5
-    unicode:    f13b
-    created:    3.1
-    categories:
-      - Brand Icons
+  # - name:       HTML 5 Logo
+  #   id:         html5
+  #   unicode:    f13b
+  #   created:    3.1
+  #   categories:
+  #     - Brand Icons
 
-  - name:       CSS 3 Logo
-    id:         css3
-    unicode:    f13c
-    created:    3.1
-    categories:
-      - Brand Icons
+  # - name:       CSS 3 Logo
+  #   id:         css3
+  #   unicode:    f13c
+  #   created:    3.1
+  #   categories:
+  #     - Brand Icons
 
   - name:       Anchor
     id:         anchor
@@ -2314,15 +2314,15 @@ icons:
     categories:
       - Currency Icons
 
-  - name:       Bitcoin (BTC)
-    id:         btc
-    unicode:    f15a
-    created:    3.2
-    aliases:
-      - bitcoin
-    categories:
-      - Currency Icons
-      - Brand Icons
+  # - name:       Bitcoin (BTC)
+  #   id:         btc
+  #   unicode:    f15a
+  #   created:    3.2
+  #   aliases:
+  #     - bitcoin
+  #   categories:
+  #     - Currency Icons
+  #     - Brand Icons
 
   - name:       File
     id:         file
@@ -2396,104 +2396,104 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       YouTube Square
-    id:         youtube-square
-    unicode:    f166
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       YouTube Square
+  #   id:         youtube-square
+  #   unicode:    f166
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       YouTube
-    id:         youtube
-    unicode:    f167
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       YouTube
+  #   id:         youtube
+  #   unicode:    f167
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Xing
-    id:         xing
-    unicode:    f168
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Xing
+  #   id:         xing
+  #   unicode:    f168
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Xing Square
-    id:         xing-square
-    unicode:    f169
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Xing Square
+  #   id:         xing-square
+  #   unicode:    f169
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       YouTube Play
-    id:         youtube-play
-    unicode:    f16a
-    created:    3.2
-    categories:
-      - Brand Icons
-      - Video Player Icons
+  # - name:       YouTube Play
+  #   id:         youtube-play
+  #   unicode:    f16a
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
+  #     - Video Player Icons
 
-  - name:       Dropbox
-    id:         dropbox
-    unicode:    f16b
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Dropbox
+  #   id:         dropbox
+  #   unicode:    f16b
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Stack Overflow
-    id:         stack-overflow
-    unicode:    f16c
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Stack Overflow
+  #   id:         stack-overflow
+  #   unicode:    f16c
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Instagram
-    id:         instagram
-    unicode:    f16d
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Instagram
+  #   id:         instagram
+  #   unicode:    f16d
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Flickr
-    id:         flickr
-    unicode:    f16e
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Flickr
+  #   id:         flickr
+  #   unicode:    f16e
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       App.net
-    id:         adn
-    unicode:    f170
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       App.net
+  #   id:         adn
+  #   unicode:    f170
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Bitbucket
-    id:         bitbucket
-    unicode:    f171
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Bitbucket
+  #   id:         bitbucket
+  #   unicode:    f171
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Bitbucket Square
-    id:         bitbucket-square
-    unicode:    f172
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Bitbucket Square
+  #   id:         bitbucket-square
+  #   unicode:    f172
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Tumblr
-    id:         tumblr
-    unicode:    f173
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Tumblr
+  #   id:         tumblr
+  #   unicode:    f173
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Tumblr Square
-    id:         tumblr-square
-    unicode:    f174
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Tumblr Square
+  #   id:         tumblr-square
+  #   unicode:    f174
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
   - name:       Long Arrow Down
     id:         long-arrow-down
@@ -2551,34 +2551,34 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Dribbble
-    id:         dribbble
-    unicode:    f17d
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Dribbble
+  #   id:         dribbble
+  #   unicode:    f17d
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Skype
-    id:         skype
-    unicode:    f17e
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Skype
+  #   id:         skype
+  #   unicode:    f17e
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
 
-  - name:       Foursquare
-    id:         foursquare
-    unicode:    f180
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Foursquare
+  #   id:         foursquare
+  #   unicode:    f180
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Trello
-    id:         trello
-    unicode:    f181
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Trello
+  #   id:         trello
+  #   unicode:    f181
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
   - name:       Female
     id:         female
@@ -2594,12 +2594,12 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       Gittip
-    id:         gittip
-    unicode:    f184
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Gittip
+  #   id:         gittip
+  #   unicode:    f184
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
   - name:       Sun Outlined
     id:         sun-o
@@ -2629,34 +2629,34 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       VK
-    id:         vk
-    unicode:    f189
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       VK
+  #   id:         vk
+  #   unicode:    f189
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Weibo
-    id:         weibo
-    unicode:    f18a
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Weibo
+  #   id:         weibo
+  #   unicode:    f18a
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Renren
-    id:         renren
-    unicode:    f18b
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Renren
+  #   id:         renren
+  #   unicode:    f18b
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
 
-  - name:       Pagelines
-    id:         pagelines
-    unicode:    f18c
-    created:    4.0
-    categories:
-      - Brand Icons
+  # - name:       Pagelines
+  #   id:         pagelines
+  #   unicode:    f18c
+  #   created:    4.0
+  #   categories:
+  #     - Brand Icons
 
   - name:       Stack Exchange
     id:         stack-exchange
