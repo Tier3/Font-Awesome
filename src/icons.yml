@@ -2742,28 +2742,28 @@ icons:
 
   - name:       Queued For Delete
     id:         queued-for-delete
-    unicode:    f198
+    unicode:    f199
     created:    4.0
     categories:
       - Tier 3 Left Nav
 
   - name:       Queued For Create
     id:         queued-for-create
-    unicode:    f384
+    unicode:    f198
     created:    4.0
     categories:
       - Tier 3 Left Nav
 
   - name:       Queued For Archive
     id:         queued-for-restore
-    unicode:    f385
+    unicode:    f19A
     created:    4.0
     categories:
       - Tier 3 Left Nav
 
   - name:       Queued For Restore
     id:         queued-for-restore
-    unicode:    f386
+    unicode:    f19B
     created:    4.0
     categories:
       - Tier 3 Left Nav

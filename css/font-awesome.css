@@ -1225,14 +1225,14 @@
   content: "\f197";
 }
 .fa-queued-for-delete:before {
-  content: "\f198";
+  content: "\f199";
 }
 .fa-queued-for-create:before {
-  content: "\f384";
+  content: "\f198";
 }
 .fa-queued-for-restore:before {
-  content: "\f386";
+  content: "\f19B";
 }
 .fa-queued-for-restore:before {
-  content: "\f386";
+  content: "\f19B";
 }
