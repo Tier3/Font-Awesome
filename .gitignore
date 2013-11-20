@@ -20,6 +20,8 @@ cfcache
 develop-eggs
 dist
 downloads
+vendor
+.bundle
 eggs
 parts
 tmp
