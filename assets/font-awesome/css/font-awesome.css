@@ -555,14 +555,12 @@
 .fa-arrows-h:before {
   content: "\f07e";
 }
+.fa-load-balancer:before,
 .fa-bar-chart-o:before {
   content: "\f080";
 }
 .fa-twitter-square:before {
   content: "\f081";
-}
-.fa-facebook-square:before {
-  content: "\f082";
 }
 .fa-camera-retro:before {
   content: "\f083";
@@ -571,6 +569,7 @@
   content: "\f084";
 }
 .fa-gears:before,
+.fa-maintenance:before,
 .fa-cogs:before {
   content: "\f085";
 }
@@ -591,9 +590,6 @@
 }
 .fa-sign-out:before {
   content: "\f08b";
-}
-.fa-linkedin-square:before {
-  content: "\f08c";
 }
 .fa-thumb-tack:before {
   content: "\f08d";
@@ -631,9 +627,6 @@
 .fa-twitter:before {
   content: "\f099";
 }
-.fa-facebook:before {
-  content: "\f09a";
-}
 .fa-github:before {
   content: "\f09b";
 }
@@ -657,18 +650,6 @@
 }
 .fa-certificate:before {
   content: "\f0a3";
-}
-.fa-hand-o-right:before {
-  content: "\f0a4";
-}
-.fa-hand-o-left:before {
-  content: "\f0a5";
-}
-.fa-hand-o-up:before {
-  content: "\f0a6";
-}
-.fa-hand-o-down:before {
-  content: "\f0a7";
 }
 .fa-arrow-circle-left:before {
   content: "\f0a8";
@@ -750,23 +731,8 @@
 .fa-table:before {
   content: "\f0ce";
 }
-.fa-magic:before {
-  content: "\f0d0";
-}
 .fa-truck:before {
   content: "\f0d1";
-}
-.fa-pinterest:before {
-  content: "\f0d2";
-}
-.fa-pinterest-square:before {
-  content: "\f0d3";
-}
-.fa-google-plus-square:before {
-  content: "\f0d4";
-}
-.fa-google-plus:before {
-  content: "\f0d5";
 }
 .fa-money:before {
   content: "\f0d6";
@@ -801,9 +767,6 @@
 .fa-envelope:before {
   content: "\f0e0";
 }
-.fa-linkedin:before {
-  content: "\f0e1";
-}
 .fa-rotate-left:before,
 .fa-undo:before {
   content: "\f0e2";
@@ -823,9 +786,11 @@
   content: "\f0e6";
 }
 .fa-flash:before,
+.fa-data-center-down:before,
 .fa-bolt:before {
   content: "\f0e7";
 }
+.fa-network:before,
 .fa-sitemap:before {
   content: "\f0e8";
 }
@@ -1048,9 +1013,6 @@
 .fa-rocket:before {
   content: "\f135";
 }
-.fa-maxcdn:before {
-  content: "\f136";
-}
 .fa-chevron-circle-left:before {
   content: "\f137";
 }
@@ -1063,12 +1025,6 @@
 .fa-chevron-circle-down:before {
   content: "\f13a";
 }
-.fa-html5:before {
-  content: "\f13b";
-}
-.fa-css3:before {
-  content: "\f13c";
-}
 .fa-anchor:before {
   content: "\f13d";
 }
@@ -1078,6 +1034,7 @@
 .fa-bullseye:before {
   content: "\f140";
 }
+.fa-ip-address:before,
 .fa-ellipsis-h:before {
   content: "\f141";
 }
@@ -1162,10 +1119,6 @@
 .fa-krw:before {
   content: "\f159";
 }
-.fa-bitcoin:before,
-.fa-btc:before {
-  content: "\f15a";
-}
 .fa-file:before {
   content: "\f15b";
 }
@@ -1196,48 +1149,6 @@
 .fa-thumbs-down:before {
   content: "\f165";
 }
-.fa-youtube-square:before {
-  content: "\f166";
-}
-.fa-youtube:before {
-  content: "\f167";
-}
-.fa-xing:before {
-  content: "\f168";
-}
-.fa-xing-square:before {
-  content: "\f169";
-}
-.fa-youtube-play:before {
-  content: "\f16a";
-}
-.fa-dropbox:before {
-  content: "\f16b";
-}
-.fa-stack-overflow:before {
-  content: "\f16c";
-}
-.fa-instagram:before {
-  content: "\f16d";
-}
-.fa-flickr:before {
-  content: "\f16e";
-}
-.fa-adn:before {
-  content: "\f170";
-}
-.fa-bitbucket:before {
-  content: "\f171";
-}
-.fa-bitbucket-square:before {
-  content: "\f172";
-}
-.fa-tumblr:before {
-  content: "\f173";
-}
-.fa-tumblr-square:before {
-  content: "\f174";
-}
 .fa-long-arrow-down:before {
   content: "\f175";
 }
@@ -1262,26 +1173,11 @@
 .fa-linux:before {
   content: "\f17c";
 }
-.fa-dribbble:before {
-  content: "\f17d";
-}
-.fa-skype:before {
-  content: "\f17e";
-}
-.fa-foursquare:before {
-  content: "\f180";
-}
-.fa-trello:before {
-  content: "\f181";
-}
 .fa-female:before {
   content: "\f182";
 }
 .fa-male:before {
   content: "\f183";
-}
-.fa-gittip:before {
-  content: "\f184";
 }
 .fa-sun-o:before {
   content: "\f185";
@@ -1294,18 +1190,6 @@
 }
 .fa-bug:before {
   content: "\f188";
-}
-.fa-vk:before {
-  content: "\f189";
-}
-.fa-weibo:before {
-  content: "\f18a";
-}
-.fa-renren:before {
-  content: "\f18b";
-}
-.fa-pagelines:before {
-  content: "\f18c";
 }
 .fa-stack-exchange:before {
   content: "\f18d";
@@ -1320,6 +1204,7 @@
 .fa-caret-square-o-left:before {
   content: "\f191";
 }
+.fa-data-center:before,
 .fa-dot-circle-o:before {
   content: "\f192";
 }
@@ -1335,4 +1220,19 @@
 }
 .fa-plus-square-o:before {
   content: "\f196";
+}
+.fa-object-bucket:before {
+  content: "\f197";
+}
+.fa-queued-for-delete:before {
+  content: "\f199";
+}
+.fa-queued-for-create:before {
+  content: "\f198";
+}
+.fa-queued-for-restore:before {
+  content: "\f19B";
+}
+.fa-queued-for-restore:before {
+  content: "\f19B";
 }

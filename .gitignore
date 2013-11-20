@@ -1,0 +1,4 @@
+vendor
+.bundle
+_gh_pages
+node_modules
