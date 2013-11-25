@@ -1236,3 +1236,6 @@
 .fa-queued-for-restore:before {
   content: "\f19B";
 }
+.fa-paas:before {
+  content: "\f19C";
+}

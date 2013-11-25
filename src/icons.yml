@@ -2768,3 +2768,9 @@ icons:
     categories:
       - Tier 3 Left Nav
 
+  - name:       PaaS
+    id:         paas
+    unicode:    f19C
+    created:    4.0
+    categories:
+      - Tier 3 Left Nav
