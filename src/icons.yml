@@ -741,12 +741,12 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       fire
-    id:         fire
-    unicode:    f06d
-    created:    1.0
-    categories:
-      - Web Application Icons
+  # - name:       fire
+  #   id:         fire
+  #   unicode:    f06d
+  #   created:    1.0
+  #   categories:
+  #     - Web Application Icons
 
   - name:       Eye
     id:         eye
@@ -773,12 +773,12 @@ icons:
       - Web Application Icons
       - Tier 3 Left Nav
 
-  - name:       plane
-    id:         plane
-    unicode:    f072
-    created:    1.0
-    categories:
-      - Web Application Icons
+  # - name:       plane
+  #   id:         plane
+  #   unicode:    f072
+  #   created:    1.0
+  #   categories:
+  #     - Web Application Icons
 
   - name:       calendar
     id:         calendar
@@ -878,12 +878,12 @@ icons:
       - Web Application Icons
       - Tier 3 Left Nav
 
-  - name:       Twitter Square
-    id:         twitter-square
-    unicode:    f081
-    created:    1.0
-    categories:
-      - Brand Icons
+  # - name:       Twitter Square
+  #   id:         twitter-square
+  #   unicode:    f081
+  #   created:    1.0
+  #   categories:
+  #     - Brand Icons
 
   # - name:       Facebook Square
   #   id:         facebook-square
@@ -924,19 +924,19 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       Thumbs Up Outlined
-    id:         thumbs-o-up
-    unicode:    f087
-    created:    1.0
-    categories:
-      - Web Application Icons
+  # - name:       Thumbs Up Outlined
+  #   id:         thumbs-o-up
+  #   unicode:    f087
+  #   created:    1.0
+  #   categories:
+  #     - Web Application Icons
 
-  - name:       Thumbs Down Outlined
-    id:         thumbs-o-down
-    unicode:    f088
-    created:    1.0
-    categories:
-      - Web Application Icons
+  # - name:       Thumbs Down Outlined
+  #   id:         thumbs-o-down
+  #   unicode:    f088
+  #   created:    1.0
+  #   categories:
+  #     - Web Application Icons
 
   - name:       star-half
     id:         star-half
@@ -995,12 +995,12 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       GitHub Square
-    id:         github-square
-    unicode:    f092
-    created:    1.0
-    categories:
-      - Brand Icons
+  # - name:       GitHub Square
+  #   id:         github-square
+  #   unicode:    f092
+  #   created:    1.0
+  #   categories:
+  #     - Brand Icons
 
   - name:       Upload
     id:         upload
@@ -1046,26 +1046,26 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       Twitter
-    id:         twitter
-    unicode:    f099
-    created:    2.0
-    categories:
-      - Brand Icons
-
-  # - name:       Facebook
-  #   id:         facebook
-  #   unicode:    f09a
+  # - name:       Twitter
+  #   id:         twitter
+  #   unicode:    f099
   #   created:    2.0
   #   categories:
   #     - Brand Icons
 
-  - name:       GitHub
-    id:         github
-    unicode:    f09b
-    created:    2.0
-    categories:
-      - Brand Icons
+  # # - name:       Facebook
+  # #   id:         facebook
+  # #   unicode:    f09a
+  # #   created:    2.0
+  # #   categories:
+  # #     - Brand Icons
+
+  # - name:       GitHub
+  #   id:         github
+  #   unicode:    f09b
+  #   created:    2.0
+  #   categories:
+  #     - Brand Icons
 
   - name:       unlock
     id:         unlock
@@ -1335,19 +1335,19 @@ icons:
       - Text Editor Icons
 
 
-#  - name:       magic
-#    id:         magic
-#    unicode:    f0d0
-#    created:    2.0
-#    categories:
-#      - Web Application Icons
-
-  - name:       truck
-    id:         truck
-    unicode:    f0d1
+  - name:       magic
+    id:         magic
+    unicode:    f0d0
     created:    2.0
     categories:
       - Web Application Icons
+
+  # - name:       truck
+  #   id:         truck
+  #   unicode:    f0d1
+  #   created:    2.0
+  #   categories:
+  #     - Web Application Icons
 
 #  - name:       Pinterest
 #    id:         pinterest
@@ -1377,13 +1377,13 @@ icons:
 #    categories:
 #      - Brand Icons
 
-  - name:       Money
-    id:         money
-    unicode:    f0d6
-    created:    2.0
-    categories:
-      - Web Application Icons
-      - Currency Icons
+  # - name:       Money
+  #   id:         money
+  #   unicode:    f0d6
+  #   created:    2.0
+  #   categories:
+  #     - Web Application Icons
+  #     - Currency Icons
 
   - name:       Caret Down
     id:         caret-down
@@ -1570,103 +1570,103 @@ icons:
       - Web Application Icons
 
 
-  - name:       user-md
-    id:         user-md
-    unicode:    f0f0
-    created:    2.0
-    categories:
-      - Medical Icons
+  # - name:       user-md
+  #   id:         user-md
+  #   unicode:    f0f0
+  #   created:    2.0
+  #   categories:
+  #     - Medical Icons
 
-  - name:       Stethoscope
-    id:         stethoscope
-    unicode:    f0f1
-    created:    3.0
-    categories:
-      - Medical Icons
+  # - name:       Stethoscope
+  #   id:         stethoscope
+  #   unicode:    f0f1
+  #   created:    3.0
+  #   categories:
+  #     - Medical Icons
 
-  - name:       Suitcase
-    id:         suitcase
-    unicode:    f0f2
-    created:    3.0
-    categories:
-      - Web Application Icons
+  # - name:       Suitcase
+  #   id:         suitcase
+  #   unicode:    f0f2
+  #   created:    3.0
+  #   categories:
+  #     - Web Application Icons
 
-  - name:       Bell Outlined
-    id:         bell-o
-    unicode:    f0a2
-    created:    3.0
-    categories:
-      - Web Application Icons
+  # - name:       Bell Outlined
+  #   id:         bell-o
+  #   unicode:    f0a2
+  #   created:    3.0
+  #   categories:
+  #     - Web Application Icons
 
-  - name:       Coffee
-    id:         coffee
-    unicode:    f0f4
-    created:    3.0
-    categories:
-      - Web Application Icons
+  # - name:       Coffee
+  #   id:         coffee
+  #   unicode:    f0f4
+  #   created:    3.0
+  #   categories:
+  #     - Web Application Icons
 
-  - name:       Cutlery
-    id:         cutlery
-    unicode:    f0f5
-    created:    3.0
-    categories:
-      - Web Application Icons
+  # - name:       Cutlery
+  #   id:         cutlery
+  #   unicode:    f0f5
+  #   created:    3.0
+  #   categories:
+  #     - Web Application Icons
 
-  - name:       File Text Outlined
-    id:         file-text-o
-    unicode:    f0f6
-    created:    3.0
-    categories:
-      - Text Editor Icons
+  # - name:       File Text Outlined
+  #   id:         file-text-o
+  #   unicode:    f0f6
+  #   created:    3.0
+  #   categories:
+  #     - Text Editor Icons
 
-  - name:       Building Outlined
-    id:         building-o
-    unicode:    f0f7
-    created:    3.0
-    categories:
-      - Web Application Icons
+  # - name:       Building Outlined
+  #   id:         building-o
+  #   unicode:    f0f7
+  #   created:    3.0
+  #   categories:
+  #     - Web Application Icons
 
-  - name:       hospital Outlined
-    id:         hospital-o
-    unicode:    f0f8
-    created:    3.0
-    categories:
-      - Medical Icons
+  # - name:       hospital Outlined
+  #   id:         hospital-o
+  #   unicode:    f0f8
+  #   created:    3.0
+  #   categories:
+  #     - Medical Icons
 
-  - name:       ambulance
-    id:         ambulance
-    unicode:    f0f9
-    created:    3.0
-    categories:
-      - Medical Icons
+  # - name:       ambulance
+  #   id:         ambulance
+  #   unicode:    f0f9
+  #   created:    3.0
+  #   categories:
+  #     - Medical Icons
 
-  - name:       medkit
-    id:         medkit
-    unicode:    f0fa
-    created:    3.0
-    categories:
-      - Medical Icons
+  # - name:       medkit
+  #   id:         medkit
+  #   unicode:    f0fa
+  #   created:    3.0
+  #   categories:
+  #     - Medical Icons
 
-  - name:       fighter-jet
-    id:         fighter-jet
-    unicode:    f0fb
-    created:    3.0
-    categories:
-      - Web Application Icons
+  # - name:       fighter-jet
+  #   id:         fighter-jet
+  #   unicode:    f0fb
+  #   created:    3.0
+  #   categories:
+  #     - Web Application Icons
 
-  - name:       beer
-    id:         beer
-    unicode:    f0fc
-    created:    3.0
-    categories:
-      - Web Application Icons
+  # - name:       beer
+  #   id:         beer
+  #   unicode:    f0fc
+  #   created:    3.0
+  #   categories:
+  #     - Web Application Icons
 
-  - name:       H Square
-    id:         h-square
-    unicode:    f0fd
-    created:    3.0
-    categories:
-      - Medical Icons
+  # - name:       H Square
+  #   id:         h-square
+  #   unicode:    f0fd
+  #   created:    3.0
+  #   categories:
+  #     - Medical Icons
 
   - name:       Plus Square
     id:         plus-square
@@ -2092,12 +2092,12 @@ icons:
   #   categories:
   #     - Brand Icons
 
-  - name:       Anchor
-    id:         anchor
-    unicode:    f13d
-    created:    3.1
-    categories:
-      - Web Application Icons
+  # - name:       Anchor
+  #   id:         anchor
+  #   unicode:    f13d
+  #   created:    3.1
+  #   categories:
+  #     - Web Application Icons
 
   - name:       Unlock Alt
     id:         unlock-alt
@@ -2382,19 +2382,19 @@ icons:
       - Web Application Icons
 
 
-  - name:       thumbs-up
-    id:         thumbs-up
-    unicode:    f164
-    created:    3.2
-    categories:
-      - Web Application Icons
+  # - name:       thumbs-up
+  #   id:         thumbs-up
+  #   unicode:    f164
+  #   created:    3.2
+  #   categories:
+  #     - Web Application Icons
 
-  - name:       thumbs-down
-    id:         thumbs-down
-    unicode:    f165
-    created:    3.2
-    categories:
-      - Web Application Icons
+  # - name:       thumbs-down
+  #   id:         thumbs-down
+  #   unicode:    f165
+  #   created:    3.2
+  #   categories:
+  #     - Web Application Icons
 
   # - name:       YouTube Square
   #   id:         youtube-square
@@ -2523,33 +2523,33 @@ icons:
     categories:
       - Directional Icons
 
-  - name:       Apple
-    id:         apple
-    unicode:    f179
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Apple
+  #   id:         apple
+  #   unicode:    f179
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Windows
-    id:         windows
-    unicode:    f17a
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Windows
+  #   id:         windows
+  #   unicode:    f17a
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Android
-    id:         android
-    unicode:    f17b
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Android
+  #   id:         android
+  #   unicode:    f17b
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Linux
-    id:         linux
-    unicode:    f17c
-    created:    3.2
-    categories:
-      - Brand Icons
+  # - name:       Linux
+  #   id:         linux
+  #   unicode:    f17c
+  #   created:    3.2
+  #   categories:
+  #     - Brand Icons
 
   # - name:       Dribbble
   #   id:         dribbble
@@ -2580,19 +2580,19 @@ icons:
   #   categories:
   #     - Brand Icons
 
-  - name:       Female
-    id:         female
-    unicode:    f182
-    created:    3.2
-    categories:
-      - Web Application Icons
+  # - name:       Female
+  #   id:         female
+  #   unicode:    f182
+  #   created:    3.2
+  #   categories:
+  #     - Web Application Icons
 
-  - name:       Male
-    id:         male
-    unicode:    f183
-    created:    3.2
-    categories:
-      - Web Application Icons
+  # - name:       Male
+  #   id:         male
+  #   unicode:    f183
+  #   created:    3.2
+  #   categories:
+  #     - Web Application Icons
 
   # - name:       Gittip
   #   id:         gittip
@@ -2601,19 +2601,19 @@ icons:
   #   categories:
   #     - Brand Icons
 
-  - name:       Sun Outlined
-    id:         sun-o
-    unicode:    f185
-    created:    3.2
-    categories:
-      - Web Application Icons
+  # - name:       Sun Outlined
+  #   id:         sun-o
+  #   unicode:    f185
+  #   created:    3.2
+  #   categories:
+  #     - Web Application Icons
 
-  - name:       Moon Outlined
-    id:         moon-o
-    unicode:    f186
-    created:    3.2
-    categories:
-      - Web Application Icons
+  # - name:       Moon Outlined
+  #   id:         moon-o
+  #   unicode:    f186
+  #   created:    3.2
+  #   categories:
+  #     - Web Application Icons
 
   - name:       Archive
     id:         archive
@@ -2622,12 +2622,12 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       Bug
-    id:         bug
-    unicode:    f188
-    created:    3.2
-    categories:
-      - Web Application Icons
+  # - name:       Bug
+  #   id:         bug
+  #   unicode:    f188
+  #   created:    3.2
+  #   categories:
+  #     - Web Application Icons
 
   # - name:       VK
   #   id:         vk
@@ -2658,12 +2658,12 @@ icons:
   #   categories:
   #     - Brand Icons
 
-  - name:       Stack Exchange
-    id:         stack-exchange
-    unicode:    f18d
-    created:    4.0
-    categories:
-      - Brand Icons
+  # - name:       Stack Exchange
+  #   id:         stack-exchange
+  #   unicode:    f18d
+  #   created:    4.0
+  #   categories:
+  #     - Brand Icons
 
   - name:       Arrow Circle Outlined Right
     id:         arrow-circle-o-right
@@ -2701,29 +2701,29 @@ icons:
       - Form Control Icons
       - Tier 3 Left Nav
 
-  - name:       Wheelchair
-    id:         wheelchair
-    unicode:    f193
-    created:    4.0
-    categories:
-      - Web Application Icons
-      - Medical Icons
+  # - name:       Wheelchair
+  #   id:         wheelchair
+  #   unicode:    f193
+  #   created:    4.0
+  #   categories:
+  #     - Web Application Icons
+  #     - Medical Icons
 
-  - name:       Vimeo Square
-    id:         vimeo-square
-    unicode:    f194
-    created:    4.0
-    categories:
-      - Brand Icons
+  # - name:       Vimeo Square
+  #   id:         vimeo-square
+  #   unicode:    f194
+  #   created:    4.0
+  #   categories:
+  #     - Brand Icons
 
-  - name:       Turkish Lira (TRY)
-    id:         try
-    unicode:    f195
-    created:    4.0
-    aliases:
-      - turkish-lira
-    categories:
-      - Currency Icons
+  # - name:       Turkish Lira (TRY)
+  #   id:         try
+  #   unicode:    f195
+  #   created:    4.0
+  #   aliases:
+  #     - turkish-lira
+  #   categories:
+  #     - Currency Icons
 
   - name:       Plus Square Outlined
     id:         plus-square-o
