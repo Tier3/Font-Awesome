@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-/_387
+/_387,
+/tasks
 );
 copyright = "SIL Open Font License 1.1";
 customParameters = (
@@ -16625,8 +16626,45 @@ unicode = F0AD;
 },
 {
 glyphname = tasks;
+lastChange = "2013-11-26 22:42:40 -0800";
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = "{3, 11}";
+target = "{0, 0}";
+},
+{
+horizontal = 1;
+origin = "{0, 1}";
+target = "{3, 4}";
+},
+{
+horizontal = 1;
+origin = "{4, 11}";
+target = "{1, 0}";
+},
+{
+horizontal = 1;
+origin = "{1, 1}";
+target = "{4, 4}";
+},
+{
+horizontal = 1;
+origin = "{5, 11}";
+target = "{2, 0}";
+},
+{
+horizontal = 1;
+origin = "{2, 1}";
+target = "{5, 4}";
+},
+{
+origin = "{0, 3}";
+target = "{3, 15}";
+}
+);
 layerId = "E37ED229-95FD-49DC-BF76-28D817CD32A6";
 name = Regular;
 paths = (
