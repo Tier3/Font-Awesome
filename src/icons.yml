@@ -2774,3 +2774,10 @@ icons:
     created:    4.0
     categories:
       - Tier 3 Left Nav
+  
+  - name:       Create Group
+    id:         create-group
+    unicode:    f19D
+    created:    4.001
+    categories:
+      - Tier 3 Left Nav
