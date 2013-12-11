@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-/_388,
-/_383
+/_389
 );
 copyright = "SIL Open Font License 1.1";
 customParameters = (
@@ -37825,11 +37824,125 @@ unicode = F19D;
 },
 {
 glyphname = _389;
+lastChange = "2013-12-11 21:46:33 -0800";
 layers = (
 {
 layerId = "E37ED229-95FD-49DC-BF76-28D817CD32A6";
 name = Regular;
-width = 1792;
+paths = (
+{
+closed = 1;
+nodes = (
+"1408 1120 LINE SMOOTH",
+"1408 1279 OFFCURVE",
+"1279 1408 OFFCURVE",
+"1120 1408 CURVE SMOOTH",
+"288 1408 LINE SMOOTH",
+"129 1408 OFFCURVE",
+"0 1279 OFFCURVE",
+"0 1120 CURVE SMOOTH",
+"0 160 LINE SMOOTH",
+"0 1 OFFCURVE",
+"129 -128 OFFCURVE",
+"288 -128 CURVE SMOOTH",
+"1120 -128 LINE SMOOTH",
+"1279 -128 OFFCURVE",
+"1408 1 OFFCURVE",
+"1408 160 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"768 1408 LINE",
+"768 128 LINE",
+"640 128 LINE",
+"640 1408 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"640 1280 LINE",
+"640 1152 LINE",
+"512 1152 LINE",
+"512 1280 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"640 1024 LINE",
+"640 896 LINE",
+"512 896 LINE",
+"512 1024 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"640 768 LINE",
+"640 640 LINE",
+"512 640 LINE",
+"512 768 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"640 512 LINE",
+"640 384 LINE",
+"512 384 LINE",
+"512 512 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"896 1152 LINE",
+"896 1024 LINE",
+"768 1024 LINE",
+"768 1152 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"896 896 LINE",
+"896 768 LINE",
+"768 768 LINE",
+"768 896 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"896 640 LINE",
+"896 512 LINE",
+"768 512 LINE",
+"768 640 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"640 256 LINE",
+"640 128 LINE",
+"512 128 LINE",
+"512 256 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"896 384 LINE",
+"896 256 LINE",
+"768 256 LINE",
+"768 384 LINE"
+);
+}
+);
+width = 1408;
 }
 );
 unicode = F19E;
@@ -37847,5 +37960,5 @@ manufacturer = "Fort Awesome";
 manufacturerURL = "http://fontawesome.io";
 unitsPerEm = 1792;
 versionMajor = 4;
-versionMinor = 1;
+versionMinor = 2;
 }
