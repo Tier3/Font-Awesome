@@ -271,8 +271,8 @@ icons:
     categories:
       - Web Application Icons
 
-  - name:       qrcode
-    id:         qrcode
+  - name:       hyperscale
+    id:         hyperscale
     unicode:    f029
     created:    1.0
     categories:
