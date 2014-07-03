@@ -305,7 +305,7 @@
 .fa-volume-up:before {
   content: "\f028";
 }
-.fa-qrcode:before {
+.fa-hyperscale:before {
   content: "\f029";
 }
 .fa-barcode:before {
@@ -785,6 +785,9 @@
 }
 .fa-cloud-upload:before {
   content: "\f0ee";
+}
+.fa-medkit:before {
+  content: "\f0fa";
 }
 .fa-plus-square:before {
   content: "\f0fe";

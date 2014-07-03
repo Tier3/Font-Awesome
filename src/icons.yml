@@ -1519,7 +1519,7 @@ icons:
     id:         sitemap
     unicode:    f0e8
     created:    2.0
-    aliases:    
+    aliases:
       - network
     categories:
       - Web Application Icons
@@ -1640,12 +1640,12 @@ icons:
   #   categories:
   #     - Medical Icons
 
-  # - name:       medkit
-  #   id:         medkit
-  #   unicode:    f0fa
-  #   created:    3.0
-  #   categories:
-  #     - Medical Icons
+  - name:       medkit
+    id:         medkit
+    unicode:    f0fa
+    created:    3.0
+    categories:
+      - Medical Icons
 
   # - name:       fighter-jet
   #   id:         fighter-jet
@@ -2774,7 +2774,7 @@ icons:
     created:    4.0
     categories:
       - Tier 3 Left Nav
-  
+
   - name:       Create Group
     id:         create-group
     unicode:    f19D

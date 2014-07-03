@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-/hyperscale
-);
 copyright = "SIL Open Font License 1.1";
 customParameters = (
 {
@@ -11686,8 +11683,9 @@ width = 1536;
 unicode = F082;
 },
 {
+export = 0;
 glyphname = camera_retro;
-lastChange = "2014-03-10 17:20:59 -0800";
+lastChange = "2013-11-26 20:28:08 -0800";
 layers = (
 {
 layerId = "E37ED229-95FD-49DC-BF76-28D817CD32A6";
@@ -14233,9 +14231,8 @@ width = 768;
 unicode = F09A;
 },
 {
-export = 0;
 glyphname = github;
-lastChange = "2013-11-26 20:27:10 -0800";
+lastChange = "2014-01-24 18:58:34 -0800";
 layers = (
 {
 layerId = "E37ED229-95FD-49DC-BF76-28D817CD32A6";
@@ -14756,37 +14753,13 @@ width = 1792;
 unicode = F0A1;
 },
 {
-export = 0;
 glyphname = bell;
-lastChange = "2013-11-26 20:42:25 -0800";
+lastChange = "2014-01-24 18:57:32 -0800";
 layers = (
 {
 layerId = "E37ED229-95FD-49DC-BF76-28D817CD32A6";
 name = Regular;
 paths = (
-{
-closed = 1;
-nodes = (
-"848 -169 OFFCURVE",
-"841 -176 OFFCURVE",
-"832 -176 CURVE SMOOTH",
-"735 -176 OFFCURVE",
-"656 -97 OFFCURVE",
-"656 0 CURVE SMOOTH",
-"656 9 OFFCURVE",
-"663 16 OFFCURVE",
-"672 16 CURVE SMOOTH",
-"681 16 OFFCURVE",
-"688 9 OFFCURVE",
-"688 0 CURVE SMOOTH",
-"688 -79 OFFCURVE",
-"753 -144 OFFCURVE",
-"832 -144 CURVE SMOOTH",
-"841 -144 OFFCURVE",
-"848 -151 OFFCURVE",
-"848 -160 CURVE SMOOTH"
-);
-},
 {
 closed = 1;
 nodes = (
@@ -23009,9 +22982,8 @@ width = 1920;
 unicode = F0F9;
 },
 {
-export = 0;
 glyphname = medkit;
-lastChange = "2013-11-26 20:26:59 -0800";
+lastChange = "2014-07-03 21:17:57 -0800";
 layers = (
 {
 layerId = "E37ED229-95FD-49DC-BF76-28D817CD32A6";
@@ -24801,7 +24773,9 @@ width = 1792;
 unicode = F112;
 },
 {
+export = 0;
 glyphname = github_alt;
+lastChange = "2014-01-24 18:58:37 -0800";
 layers = (
 {
 layerId = "E37ED229-95FD-49DC-BF76-28D817CD32A6";
@@ -37819,7 +37793,7 @@ unicode = F19E;
 },
 {
 glyphname = hyperscale;
-lastChange = "2014-03-17 20:59:27 -0800";
+lastChange = "2014-01-24 20:12:46 -0800";
 layers = (
 {
 layerId = "E37ED229-95FD-49DC-BF76-28D817CD32A6";
@@ -37841,9 +37815,9 @@ nodes = (
 "512 330.355 OFFCURVE",
 "398.619 224.002 OFFCURVE",
 "278.566 142.921 CURVE",
-"341.138 95.416 OFFCURVE",
-"411.91 58.143 OFFCURVE",
-"488.396 33.588 CURVE",
+"341.138 95.4164 OFFCURVE",
+"411.91 58.1429 OFFCURVE",
+"488.396 33.5879 CURVE",
 "564.166 156.754 OFFCURVE",
 "640 298.759 OFFCURVE",
 "640 384 CURVE",
@@ -37863,8 +37837,8 @@ nodes = (
 "768 384 LINE SMOOTH",
 "768 299 OFFCURVE",
 "843.911 157.056 OFFCURVE",
-"919.718 33.625 CURVE",
-"996.161 58.18 OFFCURVE",
+"919.718 33.6248 CURVE",
+"996.161 58.1802 OFFCURVE",
 "1067 95 OFFCURVE",
 "1129 143 CURVE"
 );
@@ -37877,7 +37851,7 @@ nodes = (
 "0 977.748 OFFCURVE",
 "0 704 CURVE SMOOTH",
 "0 554.073 OFFCURVE",
-"46.792 415.139 OFFCURVE",
+"46.7923 415.139 OFFCURVE",
 "126.578 300.995 CURVE",
 "249.385 348.973 OFFCURVE",
 "384 419.181 OFFCURVE",
@@ -37931,5 +37905,5 @@ manufacturer = "Fort Awesome";
 manufacturerURL = "http://fontawesome.io";
 unitsPerEm = 1792;
 versionMajor = 4;
-versionMinor = 2;
+versionMinor = 3;
 }
