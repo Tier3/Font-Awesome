@@ -11683,9 +11683,8 @@ width = 1536;
 unicode = F082;
 },
 {
-export = 0;
 glyphname = camera_retro;
-lastChange = "2013-11-26 20:28:08 -0800";
+lastChange = "2014-07-15 20:19:23 -0800";
 layers = (
 {
 layerId = "E37ED229-95FD-49DC-BF76-28D817CD32A6";
