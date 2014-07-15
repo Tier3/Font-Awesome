@@ -491,6 +491,7 @@
 .fa-minus:before {
   content: "\f068";
 }
+.fa-managed:before,
 .fa-asterisk:before {
   content: "\f069";
 }

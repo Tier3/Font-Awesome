@@ -277,6 +277,7 @@ icons:
     created:    1.0
     categories:
       - Web Application Icons
+      - Tier 3 Left Nav
 
   - name:       barcode
     id:         barcode
@@ -717,8 +718,11 @@ icons:
     id:         asterisk
     unicode:    f069
     created:    1.0
+    aliases:
+      - managed
     categories:
       - Web Application Icons
+      - Tier 3 Left Nav
 
   - name:       Exclamation Circle
     id:         exclamation-circle
